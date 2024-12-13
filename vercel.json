@@ -1,9 +1,8 @@
 {
-    "rewrites": [
-      {
-        "source": "/Beloved-Dog-Ace-Tragically-Dies-During-Training-with-Shock-Collar",
-        "destination": "/Beloved-Dog-Ace-Tragically-Dies-During-Training-with-Shock-Collar.html"
-      }
-    ]
-  }
-  
+  "rewrites": [
+    {
+      "source": "/Stray-Cat-Elvis-Sued-by-US-Government-for-Lab-Damages",
+      "destination": "/Stray-Cat-Elvis-Sued-by-US-Government-for-Lab-Damages.html"
+    }
+  ]
+}
